@@ -1,0 +1,24 @@
+{
+  "schema": "procedural.validation/1",
+  "python": "3.12.14",
+  "unit_tests": {
+    "passed": 52,
+    "failed": 0,
+    "skipped": 0
+  },
+  "core_preserved_sha256": "252a9b5253ef62277d2bb02a3a3345ae84bee178e6439e657fd08cbdc6513b3a",
+  "formatter": "ruff 0.12.12 passed",
+  "linter": "ruff F passed",
+  "backend_cases": 90,
+  "backend_scope": "8 corresponding runtimes; SQL arithmetic in SQLite, PostgreSQL DDL not validated",
+  "experiment_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

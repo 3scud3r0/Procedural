@@ -1,0 +1,13 @@
+{
+  "schema": "procedural.arithmetic/1",
+  "name": "quadratic",
+  "expression": {
+    "op": "add",
+    "left": {"op": "mul", "left": {"op": "x"}, "right": {"op": "x"}},
+    "right": {
+      "op": "add",
+      "left": {"op": "mul", "left": {"op": "constant", "value": 3}, "right": {"op": "x"}},
+      "right": {"op": "constant", "value": 2}
+    }
+  }
+}

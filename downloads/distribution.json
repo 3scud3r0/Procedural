@@ -1,0 +1,271 @@
+{
+  "schema": "procedural.distribution/1",
+  "platform_version": "0.1.0",
+  "core_version": "1.0.0",
+  "source_lines": 3922,
+  "source_files": 31,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 845,
+      "sha256": "1bd05b7cc7e11986666c01a08a0066eca3f66d4732e36930a1bfd5a9d31a373f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 73,
+      "sha256": "6e745393115d4c38500c3ac57011a2fea149010fa00220c8dfc7f88fbc258060"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1124,
+      "sha256": "d1cafa1c21eec8ae6bd433757b6261a188c0338aed9bddf7a008b2ef92abb7d9"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1347,
+      "sha256": "e97fabe05c4ae6099f881ec5316526f1c96af62cb5306298f6c26156f4ac476f"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1080,
+      "sha256": "2c30425f70a5dbe80d6c19fcaae438ea3dc3324e3ec55410790aa93ed5da1bfc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7761,
+      "sha256": "24d18c0abf8109357dcc3c666b733746c3eb688f6fe1f14bca13d9522ba8d27d"
+    },
+    {
+      "path": "benchmarks/backend_report.json",
+      "bytes": 2137,
+      "sha256": "3d6bef6b8dfdd60d75340c3348533f467ed47923166ba970dd0e1e0db053c6a6"
+    },
+    {
+      "path": "benchmarks/communication_report.json",
+      "bytes": 71943,
+      "sha256": "41e6129866f0de71587ca36d86acf709077d2702f9d5986e28069c2824ed207b"
+    },
+    {
+      "path": "benchmarks/evolution_report.json",
+      "bytes": 5017,
+      "sha256": "e6e6b74301aec011673596f0f8a1a4b9404ce26da18c813634b0633195ffe970"
+    },
+    {
+      "path": "benchmarks/multiseed_report.json",
+      "bytes": 1952,
+      "sha256": "40b80611482d5ede18b2cbcab819c79cfc5a9219d831c6f659a8e45973813ca7"
+    },
+    {
+      "path": "benchmarks/runtime_report.json",
+      "bytes": 2928,
+      "sha256": "5d58e2d24b2b1329d939884ceaa3bc0f04daca506d8ca5446dc0d637e28260a6"
+    },
+    {
+      "path": "benchmarks/validation_report.json",
+      "bytes": 512,
+      "sha256": "7ea116760e63b01b0ff946c2dc35013eff5ef2d960e5607f616407627d2f4103"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 3757,
+      "sha256": "84991705b0ad803fff854c082175529ef4a6372786f665c59d27507f16fec237"
+    },
+    {
+      "path": "docs/CORE.md",
+      "bytes": 7366,
+      "sha256": "5a5af7b665c8dcdac190e0645364b7db10e36326047b96ec7c04d0111ed4999d"
+    },
+    {
+      "path": "docs/EXPERIMENTS.md",
+      "bytes": 3251,
+      "sha256": "162fb8d2c46d54c72377a0e2ff8517c3d3135fd771cf5011034762c1c9349f5c"
+    },
+    {
+      "path": "docs/LANGUAGE.md",
+      "bytes": 6212,
+      "sha256": "67018c06e2f910184a89a6176bf19d12d020cdbd041092a1cffe7a97689e87ee"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 2084,
+      "sha256": "7074044414e91873ccf66942bf725d9292ff65e8ed167fc76214f4d4e7dd6926"
+    },
+    {
+      "path": "examples/algorithms/main.proc",
+      "bytes": 381,
+      "sha256": "7454e6572ff08e360e3300898f853d6aadeefcae1b0c1a31eb17b1ae43086261"
+    },
+    {
+      "path": "examples/arithmetic.json",
+      "bytes": 352,
+      "sha256": "80eb6bf0906113dc107d3078e14fb663aa9a5e34277e65a5419a62001bcc9234"
+    },
+    {
+      "path": "examples/city/buildings.proc",
+      "bytes": 348,
+      "sha256": "8c2802b43c1f5aeb49c8b4ecd0fbcfc58429b2e01a98cdd406d41c320d04c5c5"
+    },
+    {
+      "path": "examples/city/main.proc",
+      "bytes": 347,
+      "sha256": "70b0cf6fb059b47957d4d338b15fcd096fa005eba0851fee7579424598c7e98b"
+    },
+    {
+      "path": "examples/custom_generator.py",
+      "bytes": 630,
+      "sha256": "f65c97c58125c8c8f560b0f3d8bed4d335b80ef409b3990befb6888fc62990cd"
+    },
+    {
+      "path": "examples/grammar/main.proc",
+      "bytes": 442,
+      "sha256": "64933814fb84afc71d23b8fa68750a8333b4163760d8122297f3ed593e1a7ac2"
+    },
+    {
+      "path": "examples/graph/main.proc",
+      "bytes": 479,
+      "sha256": "77de891aa377c0fb85a24662b5e8141b20c2321e98faf916e8e551b76a667a76"
+    },
+    {
+      "path": "examples/terrain/main.proc",
+      "bytes": 461,
+      "sha256": "bf0a47c905b482293d93cca0d3ee24e454c8f3fc156f8dc23f315e1113345620"
+    },
+    {
+      "path": "procedural.py",
+      "bytes": 26922,
+      "sha256": "252a9b5253ef62277d2bb02a3a3345ae84bee178e6439e657fd08cbdc6513b3a"
+    },
+    {
+      "path": "procedural_lab/__init__.py",
+      "bytes": 271,
+      "sha256": "070192b4bcab4d4618be30998f5b543dafdef877517ab1eb6d68490721d44f97"
+    },
+    {
+      "path": "procedural_lab/__main__.py",
+      "bytes": 48,
+      "sha256": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d"
+    },
+    {
+      "path": "procedural_lab/artifacts.py",
+      "bytes": 3442,
+      "sha256": "0a78c2d17a013a482eca90742b6ba0d6c3b76492c3eadbb7942fc1b4b7f480fb"
+    },
+    {
+      "path": "procedural_lab/backends.py",
+      "bytes": 6357,
+      "sha256": "8cfdfbcd8922c36386ea4a871a1c26a8343dac3f0859b4c2beb02ea440f1e55f"
+    },
+    {
+      "path": "procedural_lab/benchmarks.py",
+      "bytes": 2736,
+      "sha256": "65b230ccc6247d4c8da0eac23334429e0742e24188b59e5042caeaeb29e5c9d7"
+    },
+    {
+      "path": "procedural_lab/bytecode.py",
+      "bytes": 6722,
+      "sha256": "f3e6533218990b56d4b9e564ea805edcc16291e6529cd2382916037f2f948db8"
+    },
+    {
+      "path": "procedural_lab/cli.py",
+      "bytes": 6140,
+      "sha256": "131e35a596d7bee542ac4b7910640986fb84c09f2b2839655b539e3bc581f247"
+    },
+    {
+      "path": "procedural_lab/compiler.py",
+      "bytes": 12257,
+      "sha256": "90be3281f65dd4dc8d0ca46f01a7d6b1a0e271a6e6c97e49806badb5cae91cf9"
+    },
+    {
+      "path": "procedural_lab/errors.py",
+      "bytes": 821,
+      "sha256": "56f9cbc7f30d158b78b1c55675093b499738768fc8f0c4203217792a4fb56157"
+    },
+    {
+      "path": "procedural_lab/experiments/__init__.py",
+      "bytes": 215,
+      "sha256": "7889f80ac03a8e809bd45aad262811088014c66b5e6715750e1912fdfb967198"
+    },
+    {
+      "path": "procedural_lab/experiments/communication.py",
+      "bytes": 5299,
+      "sha256": "8b8d6b1c2a89a3e2c92435d8956359948ded527de7c7fdbdf542a53bfd89de35"
+    },
+    {
+      "path": "procedural_lab/experiments/evolution.py",
+      "bytes": 4848,
+      "sha256": "47102f84d8a63985342aae65f80b2e223f7d9107917d933416156289e40d69ba"
+    },
+    {
+      "path": "procedural_lab/geometry.py",
+      "bytes": 9123,
+      "sha256": "0013ff6e3c26eac8ae62c6f3f9644d5cc35bff8efff1130f98b3b03ee95674a0"
+    },
+    {
+      "path": "procedural_lab/project.py",
+      "bytes": 3721,
+      "sha256": "ad079109a9dc591468a0d929381dd5f9083980aed9c683f3e6b6502166ccd348"
+    },
+    {
+      "path": "procedural_lab/runner.py",
+      "bytes": 3153,
+      "sha256": "c95ab1f2ab9b567f5f3253fc2081ab68ae4aae09a8a836493ab622910d61557d"
+    },
+    {
+      "path": "procedural_lab/vm.py",
+      "bytes": 17402,
+      "sha256": "084e2e8a04e09779677fefa21c2be88a42cf89c505e4539082711a3857e3b5b8"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 641,
+      "sha256": "7bef27e36e3f1f227f7c0b0403180cc115eebfe6eddfa67bde0883647b4b39d6"
+    },
+    {
+      "path": "scripts/experiment_suite.py",
+      "bytes": 1656,
+      "sha256": "db2ae3c3fcc53a8ed75ae76bde19661006b1f9666654d8939e12e7aeea4494f0"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "bytes": 2834,
+      "sha256": "f43c1b2b74961bb8034a9600b31415e3708a4c87a298d80c04c4c3d52e0de711"
+    },
+    {
+      "path": "scripts/validate_backends.py",
+      "bytes": 7518,
+      "sha256": "d912f11d38c5f6a8b9d1e13308efeef916ddbdd3cbc47fcf9496458bc2444a8f"
+    },
+    {
+      "path": "tests/test_compiler_vm.py",
+      "bytes": 9526,
+      "sha256": "99ce357d7d91c66fb3f34b6ac2a721722be05166fd64adbe0428c8076f179da3"
+    },
+    {
+      "path": "tests/test_core.py",
+      "bytes": 10452,
+      "sha256": "251ae3c79c9000a68e8af6fab6b36ea74b2a948d0b830f67a787e8394bf82592"
+    },
+    {
+      "path": "tests/test_experiments_backends.py",
+      "bytes": 5197,
+      "sha256": "62dd72fddfc3c76727856db413069a1cd9f4ee9ed01ddf2c6f0adb290827c778"
+    },
+    {
+      "path": "tests/test_projects_artifacts.py",
+      "bytes": 7121,
+      "sha256": "12168de004a2b82180e9e1b7d63e4814478cdd1793013001006747264ba6f37c"
+    }
+  ],
+  "downloads": [
+    {
+      "path": "Procedural_Lab_0.1.0.zip",
+      "bytes": 177227,
+      "sha256": "65739d6cc53818833d49db84d3dc83a85569c54f5bb452e31a5a2b4180b46df9"
+    },
+    {
+      "path": "codigo_completo.txt",
+      "bytes": 284790,
+      "sha256": "cd142399e91e93c1f46b35912f28ca8d75ba18e6082507026f4ffa04e69fe70e"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+from math import sin, cos, pi
+graph = generate("graph", nodes=16, edges=24)
+points = []
+for node in graph["nodes"]:
+    angle = node * 2 * pi / len(graph["nodes"])
+    point = [cos(angle) * 8, 0, sin(angle) * 8]
+    append(points, point)
+    sphere(radius=0.35, position=point, color="#c5de91")
+for edge in graph["edges"]:
+    line([points[edge[0]], points[edge[1]]], color="#94b9d5")
+emit("graph.json", graph)
+print("Nodes:", len(graph["nodes"]), "edges:", len(graph["edges"]))

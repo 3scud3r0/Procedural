@@ -1,0 +1,72 @@
+{
+  "schema": "procedural.experiment-suite/1",
+  "records": [
+    {
+      "seed": 0,
+      "communication_baseline": 0.191,
+      "communication_final": 1.0,
+      "evolution_generations": 15,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 1,
+      "communication_baseline": 0.154,
+      "communication_final": 0.857,
+      "evolution_generations": 4,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 2,
+      "communication_baseline": 0.219,
+      "communication_final": 0.838,
+      "evolution_generations": 4,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 3,
+      "communication_baseline": 0.167,
+      "communication_final": 0.83,
+      "evolution_generations": 0,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 4,
+      "communication_baseline": 0.147,
+      "communication_final": 0.844,
+      "evolution_generations": 3,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 5,
+      "communication_baseline": 0.198,
+      "communication_final": 0.827,
+      "evolution_generations": 11,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 6,
+      "communication_baseline": 0.17,
+      "communication_final": 0.67,
+      "evolution_generations": 12,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    },
+    {
+      "seed": 7,
+      "communication_baseline": 0.175,
+      "communication_final": 1.0,
+      "evolution_generations": 2,
+      "evolution_training_mae": 0.0,
+      "evolution_heldout_mae": 0.0
+    }
+  ],
+  "communication_final_mean": 0.85825,
+  "evolution_exact_heldout_runs": 8,
+  "interpretation": "Finite supplied tasks and fixed hyperparameters; these results do not establish general intelligence."
+}

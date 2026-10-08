@@ -1,0 +1,19 @@
+def fibonacci(n):
+    a = 0
+    b = 1
+    values = []
+    for i in range(n):
+        append(values, a)
+        next_value = a + b
+        a = b
+        b = next_value
+    return values
+
+def factorial(n):
+    if n <= 1:
+        return 1
+    return n * factorial(n - 1)
+
+result = {"fibonacci": fibonacci(40), "factorial": factorial(20)}
+print(result)
+emit("algorithms.json", result)

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+<rect width="100%" height="100%" fill="#111821"/>
+<polygon points="400.399,185.191 448.160,212.766 448.160,151.489 400.399,123.915" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="448.160,212.766 400.399,240.340 400.399,179.064 448.160,151.489" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,123.915 448.160,151.489 400.399,179.064 352.639,151.489" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="400.399" cy="142.298" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="480.000,231.149 527.760,258.723 527.760,105.532 480.000,77.957" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="527.760,258.723 480.000,286.298 480.000,133.106 527.760,105.532" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="480.000,77.957 527.760,105.532 480.000,133.106 432.240,105.532" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="320.799,231.149 368.559,258.723 368.559,74.894 320.799,47.319" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="368.559,258.723 320.799,286.298 320.799,102.468 368.559,74.894" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="320.799,47.319 368.559,74.894 320.799,102.468 273.038,74.894" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,277.106 448.160,304.681 448.160,243.404 400.399,215.830" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="448.160,304.681 400.399,332.255 400.399,270.979 448.160,243.404" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,215.830 448.160,243.404 400.399,270.979 352.639,243.404" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="480.000" cy="96.340" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="400.399" cy="234.213" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="559.601,277.106 607.361,304.681 607.361,151.489 559.601,123.915" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="607.361,304.681 559.601,332.255 559.601,179.064 607.361,151.489" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="559.601,123.915 607.361,151.489 559.601,179.064 511.840,151.489" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="241.198,277.106 288.958,304.681 288.958,120.851 241.198,93.277" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="288.958,304.681 241.198,332.255 241.198,148.426 288.958,120.851" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="241.198,93.277 288.958,120.851 241.198,148.426 193.438,120.851" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="320.799" cy="65.702" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="639.201,323.064 686.962,350.638 686.962,289.362 639.201,261.787" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="686.962,350.638 639.201,378.213 639.201,316.936 686.962,289.362" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="639.201,261.787 686.962,289.362 639.201,316.936 591.441,289.362" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="320.799,323.064 368.559,350.638 368.559,289.362 320.799,261.787" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="368.559,350.638 320.799,378.213 320.799,316.936 368.559,289.362" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="320.799,261.787 368.559,289.362 320.799,316.936 273.038,289.362" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="480.000,323.064 527.760,350.638 527.760,258.723 480.000,231.149" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="527.760,350.638 480.000,378.213 480.000,286.298 527.760,258.723" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="480.000,231.149 527.760,258.723 480.000,286.298 432.240,258.723" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="559.601" cy="142.298" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="639.201" cy="280.170" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="320.799" cy="280.170" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="480.000" cy="249.532" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="241.198" cy="111.660" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="161.597,323.064 209.358,350.638 209.358,105.532 161.597,77.957" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="209.358,350.638 161.597,378.213 161.597,133.106 209.358,105.532" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="161.597,77.957 209.358,105.532 161.597,133.106 113.837,105.532" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="559.601,369.021 607.361,396.596 607.361,304.681 559.601,277.106" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="607.361,396.596 559.601,424.170 559.601,332.255 607.361,304.681" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="559.601,277.106 607.361,304.681 559.601,332.255 511.840,304.681" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="559.601" cy="295.489" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="718.802,369.021 766.562,396.596 766.562,120.851 718.802,93.277" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="766.562,396.596 718.802,424.170 718.802,148.426 766.562,120.851" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="718.802,93.277 766.562,120.851 718.802,148.426 671.042,120.851" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="639.201,414.979 686.962,442.553 686.962,350.638 639.201,323.064" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="686.962,442.553 639.201,470.128 639.201,378.213 686.962,350.638" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="639.201,323.064 686.962,350.638 639.201,378.213 591.441,350.638" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,369.021 448.160,396.596 448.160,90.213 400.399,62.638" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="448.160,396.596 400.399,424.170 400.399,117.787 448.160,90.213" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,62.638 448.160,90.213 400.399,117.787 352.639,90.213" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="161.597" cy="96.340" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="241.198,369.021 288.958,396.596 288.958,59.574 241.198,32.000" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="288.958,396.596 241.198,424.170 241.198,87.149 288.958,59.574" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="241.198,32.000 288.958,59.574 241.198,87.149 193.438,59.574" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="798.403,414.979 846.163,442.553 846.163,258.723 798.403,231.149" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="846.163,442.553 798.403,470.128 798.403,286.298 846.163,258.723" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="798.403,231.149 846.163,258.723 798.403,286.298 750.642,258.723" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="639.201" cy="341.447" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="480.000,414.979 527.760,442.553 527.760,166.809 480.000,139.234" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="527.760,442.553 480.000,470.128 480.000,194.383 527.760,166.809" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="480.000,139.234 527.760,166.809 480.000,194.383 432.240,166.809" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="320.799,414.979 368.559,442.553 368.559,136.170 320.799,108.596" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="368.559,442.553 320.799,470.128 320.799,163.745 368.559,136.170" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="320.799,108.596 368.559,136.170 320.799,163.745 273.038,136.170" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,460.936 448.160,488.511 448.160,335.319 400.399,307.745" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="448.160,488.511 400.399,516.085 400.399,362.894 448.160,335.319" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="400.399,307.745 448.160,335.319 400.399,362.894 352.639,335.319" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="718.802" cy="111.660" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="798.403" cy="249.532" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="718.802,460.936 766.562,488.511 766.562,243.404 718.802,215.830" fill="#c5de91" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="766.562,488.511 718.802,516.085 718.802,270.979 766.562,243.404" fill="#c5de91" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="718.802,215.830 766.562,243.404 718.802,270.979 671.042,243.404" fill="#c5de91" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="400.399" cy="81.021" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="639.201,506.894 686.962,534.468 686.962,442.553 639.201,414.979" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="686.962,534.468 639.201,562.043 639.201,470.128 686.962,442.553" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="639.201,414.979 686.962,442.553 639.201,470.128 591.441,442.553" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<polygon points="559.601,460.936 607.361,488.511 607.361,182.128 559.601,154.553" fill="#e5a473" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="607.361,488.511 559.601,516.085 559.601,209.702 607.361,182.128" fill="#e5a473" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="559.601,154.553 607.361,182.128 559.601,209.702 511.840,182.128" fill="#e5a473" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="241.198" cy="50.383" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="400.399" cy="326.128" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="480.000,506.894 527.760,534.468 527.760,350.638 480.000,323.064" fill="#94b9d5" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="527.760,534.468 480.000,562.043 480.000,378.213 527.760,350.638" fill="#94b9d5" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="480.000,323.064 527.760,350.638 480.000,378.213 432.240,350.638" fill="#94b9d5" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="480.000" cy="157.617" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="639.201" cy="433.362" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="320.799" cy="126.979" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="718.802" cy="234.213" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="480.000" cy="341.447" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<circle cx="559.601" cy="172.936" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+<polygon points="559.601,552.851 607.361,580.426 607.361,212.766 559.601,185.191" fill="#e5a473" fill-opacity="0.72" stroke="#101820"><title>box</title></polygon>
+<polygon points="607.361,580.426 559.601,608.000 559.601,240.340 607.361,212.766" fill="#e5a473" fill-opacity="0.88" stroke="#101820"><title>box</title></polygon>
+<polygon points="559.601,185.191 607.361,212.766 559.601,240.340 511.840,212.766" fill="#e5a473" fill-opacity="1.0" stroke="#101820"><title>box</title></polygon>
+<circle cx="559.601" cy="203.574" r="9.191" fill="#f4efc4" stroke="#101820"><title>sphere</title></circle>
+</svg>

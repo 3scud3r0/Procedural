@@ -1,0 +1,108 @@
+{
+  "schema": "procedural.backend-validation/1",
+  "program": {
+    "schema": "procedural.arithmetic/1",
+    "name": "quadratic",
+    "expression": {
+      "op": "add",
+      "left": {
+        "op": "mul",
+        "left": {
+          "op": "x"
+        },
+        "right": {
+          "op": "x"
+        }
+      },
+      "right": {
+        "op": "add",
+        "left": {
+          "op": "mul",
+          "left": {
+            "op": "constant",
+            "value": 3
+          },
+          "right": {
+            "op": "x"
+          }
+        },
+        "right": {
+          "op": "constant",
+          "value": 2
+        }
+      }
+    }
+  },
+  "samples": [
+    -100.25,
+    -10,
+    -3,
+    -1,
+    0,
+    0.25,
+    1,
+    3,
+    10,
+    100.25
+  ],
+  "comparison": {
+    "relative_tolerance": 1e-12,
+    "absolute_tolerance": 1e-12
+  },
+  "records": [
+    {
+      "target": "python",
+      "status": "passed",
+      "samples": 10,
+      "method": "CPython execution"
+    },
+    {
+      "target": "javascript",
+      "status": "passed",
+      "samples": 10,
+      "method": "Node.js ESM execution"
+    },
+    {
+      "target": "typescript",
+      "status": "passed",
+      "samples": 10,
+      "method": "TypeScript compilation and Node.js execution"
+    },
+    {
+      "target": "c",
+      "status": "passed",
+      "samples": 10,
+      "method": "native shared library compilation and ctypes execution"
+    },
+    {
+      "target": "cpp",
+      "status": "passed",
+      "samples": 10,
+      "method": "native shared library compilation and ctypes execution"
+    },
+    {
+      "target": "rust",
+      "status": "passed",
+      "samples": 10,
+      "method": "rustc compilation and native execution"
+    },
+    {
+      "target": "go",
+      "status": "passed",
+      "samples": 10,
+      "method": "Go compilation and execution"
+    },
+    {
+      "target": "lua",
+      "status": "passed",
+      "samples": 10,
+      "method": "Lua interpreter execution"
+    },
+    {
+      "target": "sql",
+      "status": "passed",
+      "samples": 10,
+      "method": "arithmetic SELECT in SQLite; PostgreSQL function DDL not validated"
+    }
+  ]
+}

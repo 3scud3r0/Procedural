@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "procedural-lab"
+version = "0.1.0"
+description = "Standalone procedural core, compiler, bounded VM and reproducible experiments"
+requires-python = ">=3.10"
+readme = "README.md"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["ruff==0.12.12"]
+
+[project.scripts]
+procedural = "procedural_lab.cli:main"
+
+[tool.setuptools]
+py-modules = ["procedural"]
+
+[tool.setuptools.packages.find]
+include = ["procedural_lab*"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["F"]

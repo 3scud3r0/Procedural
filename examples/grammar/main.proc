@@ -1,0 +1,13 @@
+rules = {
+    "start": "The {place} contains {thing}.",
+    "place": ["forest", "city", "cave"],
+    "thing": ["a portal", "a garden", "a machine"]
+}
+sentences = []
+for i in range(10):
+    append(sentences, grammar(rules))
+emit("sentences.json", sentences)
+code = grammar({"start": "def {name}(x):\n    return x * {factor}\n",
+                "name": ["scale", "transform"], "factor": ["2", "3", "5"]})
+emit("generated.py", code)
+print(code)

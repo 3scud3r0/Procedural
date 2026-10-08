@@ -1,0 +1,10 @@
+from procedural import generate
+
+terrain = generate("terrain", width=20, height=20, scale=0.12, amplitude=4)
+for z in range(terrain["height"]):
+    for x in range(terrain["width"]):
+        height = terrain["values"][z][x] + 5
+        material = "#c5de91" if height > 5 else "#94b9d5"
+        box(size=[0.9, height, 0.9], position=[x, height / 2, z], color=material)
+emit("heightmap.json", terrain)
+print("Terrain cells:", terrain["width"] * terrain["height"])

@@ -1,0 +1,7 @@
+def tower(index, height=5):
+    x = (index % 6) * 3
+    z = (index // 6) * 3
+    material = choose(["#c5de91", "#e5a473", "#94b9d5"])
+    box(size=[1.8, height, 1.8], position=[x, height / 2, z], color=material)
+    sphere(radius=0.3, position=[x, height + 0.3, z], color="#f4efc4")
+    return {"index": index, "height": height, "color": material}
